@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.AssemblyInfo.cs
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\bin\Debug\net7.0\MindboxCodeTasks.exe
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\bin\Debug\net7.0\MindboxCodeTasks.deps.json
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\bin\Debug\net7.0\MindboxCodeTasks.runtimeconfig.json
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\bin\Debug\net7.0\MindboxCodeTasks.dll
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\bin\Debug\net7.0\MindboxCodeTasks.pdb
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.dll
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\refint\MindboxCodeTasks.dll
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.pdb
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\MindboxCodeTasks.genruntimeconfig.cache
+C:\Users\User\source\repos\MindboxCodeTasks\MindboxCodeTasks\obj\Debug\net7.0\ref\MindboxCodeTasks.dll
